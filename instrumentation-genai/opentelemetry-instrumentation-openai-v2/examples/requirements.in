@@ -1,0 +1,5 @@
+openai
+opentelemetry-sdk
+opentelemetry-semantic-conventions
+opentelemetry-exporter-otlp
+-e .
